@@ -45,4 +45,20 @@ This repository contains Python solutions to set-related exercises from [W3Resou
    ```bash
    git clone https://github.com/omkarpawar2002/python-set-exercises-w3resources.git
    cd python-set-exercises-w3resources
+   ```
+
+## 📌 Sample Output
+Example — Checking subset:
+   ```
+   a = {10, 20, 30}
+   b = {10, 20, 30, 40, 60}
+   print(a.issubset(b))  # Output: True
+   ```
+
+## 📖 Reference
+Exercises sourced from:
+   ```
+   🔗 W3Resource Python Set Exercises
+   ```
+
 
