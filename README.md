@@ -6,12 +6,12 @@ This repository contains Python solutions to set-related exercises from [W3Resou
 
 ## 📚 Table of Contents
 
-- [Features](#features)
-- [Topics Covered](#topics-covered)
-- [How to Run](#how-to-run)
-- [Sample Output](#sample-output)
-- [Reference](#reference)
-- [Author](#author)
+- [✨ Features](#-features)
+- [🔍 Topics Covered](#-topics-covered)
+- [▶️ How to Run](#️-how-to-run)
+- [📌 Sample Output](#-sample-output)
+- [📖 Reference](#-reference)
+- [🧑‍💻 Author](#-author)
 
 ---
 
@@ -45,3 +45,4 @@ This repository contains Python solutions to set-related exercises from [W3Resou
    ```bash
    git clone https://github.com/omkarpawar2002/python-set-exercises-w3resources.git
    cd python-set-exercises-w3resources
+
